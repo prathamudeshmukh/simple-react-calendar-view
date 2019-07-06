@@ -1,10 +1,10 @@
-# react-calendar-view
+# React Calendar View
 
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe react-calendar-view here.
+Simple light-weight component to display a calendar view in your React app.
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo

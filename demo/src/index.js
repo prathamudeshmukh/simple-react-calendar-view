@@ -1,13 +1,12 @@
 import React, {Component} from 'react'
 import {render} from 'react-dom'
 
-import Example from '../../src'
+import Calendar from '../../src'
 
 class Demo extends Component {
   render() {
     return <div>
-      <h1>react-calendar-view Demo</h1>
-      <Example/>
+      <Calendar/>
     </div>
   }
 }

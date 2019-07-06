@@ -1,7 +1,7 @@
 {
-  "name": "react-calendar-view",
+  "name": "simple-react-calendar-view",
   "version": "1.0.0",
-  "description": "react-calendar-view React component",
+  "description": "Simple light-weight component to display a calendar view in your React app.",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -19,20 +19,39 @@
     "test:coverage": "nwb test-react --coverage",
     "test:watch": "nwb test-react --server"
   },
-  "dependencies": {},
+  "dependencies": {
+    "moment": "^2.24.0",
+    "bulma": "^0.7.5"
+  },
   "peerDependencies": {
     "react": "16.x"
   },
   "devDependencies": {
     "nwb": "0.23.x",
+    "nwb-sass": "^0.9.0",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0"
   },
-  "author": "",
-  "homepage": "",
+  "author": "prathamudeshmukh",
+  "homepage": "https://github.com/prathamudeshmukh/simple-react-calendar-view#readme",
   "license": "MIT",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathamudeshmukh/simple-react-calendar-view.git"
+  },
   "keywords": [
-    "react-component"
-  ]
+    "react-component",
+    "calendar",
+    "calendar view",
+    "view"
+  ],
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "bugs": {
+    "url": "https://github.com/prathamudeshmukh/simple-react-calendar-view/issues"
+  }
 }
