@@ -2,6 +2,9 @@ import React from 'react';
 import Day from './Day';
 import moment from 'moment';
 
+/**
+ * Month View
+ */
 export default class MonthView extends React.PureComponent {
     renderMonth() {
         let { currentMonth: startOfCurrentMonth } = this.props;
