@@ -1,16 +1,6 @@
 # React Calendar View
 
-[![Travis][build-badge]][build]
-[![npm package][npm-badge]][npm]
-[![Coveralls][coveralls-badge]][coveralls]
-
+[![Build Status](https://travis-ci.org/prathamudeshmukh/simple-react-calendar-view.svg?branch=master)](https://travis-ci.org/prathamudeshmukh/simple-react-calendar-view)
+[![npm version](http://img.shields.io/npm/v/simple-react-calendar-view.svg?style=flat)](https://npmjs.org/package/simple-react-calendar-view "View this project on npm")
+[![Coverage Status](https://coveralls.io/repos/github/prathamudeshmukh/simple-react-calendar-view/badge.svg?branch=master)](https://coveralls.io/github/prathamudeshmukh/simple-react-calendar-view?branch=master)
 Simple light-weight component to display a calendar view in your React app.
-
-[build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
-[build]: https://travis-ci.org/user/repo
-
-[npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
-[npm]: https://www.npmjs.org/package/npm-package
-
-[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/user/repo
