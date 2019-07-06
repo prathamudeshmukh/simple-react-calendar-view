@@ -1,6 +1,6 @@
 {
   "name": "simple-react-calendar-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple light-weight component to display a calendar view in your React app.",
   "main": "lib/index.js",
   "module": "es/index.js",
